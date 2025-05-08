@@ -4,7 +4,7 @@ Web:(https://www.gojemar.com.ar)
 ---
 
  # NOTA IMPORTANTE
-Descomprimir la carpeta database en la misma carpeta que marvel.
+Descomprimir la carpeta database.rar en la misma carpeta que marvel.
 
 # Django - Modelos y Administrador
 En este repositorio encontrarán los siguientes archivos:
